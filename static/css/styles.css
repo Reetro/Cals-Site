@@ -85,3 +85,7 @@
 .menu-bar-custom {
   background-color: #05386b;
 }
+
+.below-header-spacing {
+  margin-top: 1rem;
+}
