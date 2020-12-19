@@ -1,4 +1,6 @@
-
+/*site wide*/
+h5 {
+}
 /*overriden from Bootsrap*/
 /*Text size for nav bar links in the header*/
 .nav-text {
@@ -88,4 +90,8 @@
 
 .below-header-spacing {
   margin-top: 1rem;
+}
+
+.special-font {
+  font-family: 'Roboto', sans-serif;
 }
